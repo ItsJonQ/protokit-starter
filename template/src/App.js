@@ -6,14 +6,15 @@ function App() {
 	return (
 		<HStack alignment="center" css={[ui.padding(30)]}>
 			<VStack>
-				<Heading align="center" size={1}>
+				<Heading size={1}>
 					<span aria-label="wave" role="img">
 						👋
 					</span>{' '}
 					Hello
 				</Heading>
-				<Text align="center">
-					Welcome to the G2 Components Starter Kit!
+				<Text>Welcome to the G2 Components Starter Kit!</Text>
+				<Text size="caption" variant="muted">
+					Start editing to see some magic happen!
 				</Text>
 			</VStack>
 		</HStack>
