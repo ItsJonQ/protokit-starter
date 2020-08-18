@@ -1,6 +1,8 @@
-# Prototype Starter Kit for Create React App
+# Prototype Starter Kit
 
-Get started quickly with `@wp-g2/components` prototyping with this starter kit!
+> Prototyping with `@wp-g2/components`!
+
+Start experiencing the new (experimental) G2 Components project with this starter kit!
 
 ## Installation
 
