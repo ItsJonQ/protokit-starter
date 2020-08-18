@@ -1,3 +1,7 @@
+# Deprecated
+
+## Moved to https://github.com/ItsJonQ/g2/tree/master/packages/protokit-starter
+
 # Prototype Starter Kit
 
 > Prototyping with `@wp-g2/components`!
@@ -18,7 +22,6 @@ We can start prototyping with G2 Components in 2 ways:
 To get started with the CodeSandbox template, click on the link below:
 
 [https://codesandbox.io/s/g2-prototype-sandbox-8ose4?file=/src/App.js](https://codesandbox.io/s/g2-prototype-sandbox-8ose4?file=/src/App.js)
-
 
 ## Create React App
 
